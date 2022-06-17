@@ -1,4 +1,4 @@
-![](assets/login.gif)
+![](./assets/login.gif)
 
 # Registration Form
 

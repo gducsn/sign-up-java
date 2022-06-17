@@ -1,4 +1,4 @@
-![form-java](assets/login.gif)
+![main](assets/login.gif?raw=true)
 
 # Registration Form
 

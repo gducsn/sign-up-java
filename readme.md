@@ -1,4 +1,5 @@
-![main](assets/login.gif?raw=true)
+![gducsn/form-java](../assets/login.gif?raw=true)
+![login](https://user-images.githubusercontent.com/94108883/174250640-e99a87de-8463-4b18-8e48-e8896e3ed520.gif)
 
 # Registration Form
 

@@ -1,4 +1,4 @@
-![Demo Animation](assets/login.gif?raw=true)
+![Demo Animation](../assets/login.gif?raw=true)
 
 # Registration Form
 

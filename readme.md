@@ -27,6 +27,7 @@ la seconda che ci mostra i risultati.
 
 ```java
 package model;
+import java.io.Serializable;
 
 public class User {
 
@@ -93,7 +94,7 @@ String password, String email) {
 ```
 
 “Javabean” è il nome dato ad una classe che contiene almeno un costruttore 
-vuoto e i metodi set/get con i quali impostare o prelevare valori. Questa 
+vuoto, i metodi set/get con i quali impostare o prelevare valori ed è serializzabile. Questa 
 classe ci servirà per creare ogni volta un nuovo utente.
 
 ---
